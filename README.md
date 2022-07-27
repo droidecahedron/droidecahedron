@@ -40,6 +40,8 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/IoT-018bff?style=flat&logo=neo4j&logoColor=white)
 ![](https://img.shields.io/badge/VHDL-1890FF?style=FLAT&logo=antdesign&logoColor=white)
+![](https://img.shields.io/badge/Xilinx-black?style=flat&logo=xrp&logoColor=white)
+![](https://img.shields.io/badge/Altium-319795?flat&logo=chakra-ui&logoColor=white)
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
@@ -48,7 +50,6 @@
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
-
 ![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
