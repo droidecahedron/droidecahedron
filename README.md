@@ -71,7 +71,7 @@
   
 </p>
 
-<a href="https://www.linkedin.com/in/johnny-nguyen-441991226/"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Johnny Nguyen | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/johnny-nguyen-ddhd/"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Johnny Nguyen | LinkedIn" width="21px"/></a>
 
 
   
