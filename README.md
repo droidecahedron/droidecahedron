@@ -24,7 +24,7 @@
 </h2>
 
 
-
+<!--- need to deploy my own vercel instance
 <!Stats>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=droidecahedron&show_icons=true&theme=highcontrast&count_private=true&hide=contribs,stars,issues"/></br>
@@ -33,7 +33,7 @@
 
 
 </p>
-
+--->
 
 ## 💼 Technical Skills
 
