@@ -4,26 +4,6 @@
 </p>
 
 
-
-
-<h3 align="center">
-  👋 Hello, I’m (@droidecahedron), a firmware engineer the US<br/>
-</h3>
-
-<p align="center">
-    I graduated with a Bachelors of Science in Electrical/Computer Engineering<br/>
-    👀 I’m interested in embedded software/firmware, IoT, operating systems, FPGAs, digital system processing and real time DSP apps, linux, ARM, AVR<br/>
-    🌱 I’m currently learning data science, machine learning, IoT, reconfigurable computing<br/>
-   
-</p>
-
-
-
-<h2 align="center">
-       💞️ I’m looking to collaborate on anything C or VHDL, particularly IoT, DSP, and Linux apps! <br/> 
-</h2>
-
-
 <!Stats>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droidecahedron&theme=highcontrast&layout=compact"/></br>
@@ -31,7 +11,7 @@
 
 </p>
 
-## 💼 Technical Skills
+## 💼
 
 ![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -73,6 +53,10 @@
   
 
 <!---
+<h2 align="center">
+       💞️ I’m looking to collaborate on anything C or VHDL, particularly IoT, DSP, and Linux apps! <br/> 
+</h2>
+🌱 I’m currently learning data science, machine learning, IoT, reconfigurable computing<br/>
 ![Alt Text](https://imgur.com/r7AWvbP.gif)
 
 ![droidecahedron's GitHub stats](https://github-readme-stats.vercel.app/api?username=droidecahedron&show_icons=true&theme=highcontrast&count_private=true&hide=contribs,stars,issues)
