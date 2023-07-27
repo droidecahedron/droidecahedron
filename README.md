@@ -26,8 +26,6 @@
 
 <!Stats>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=droidecahedron&show_icons=true&theme=highcontrast&count_private=true&hide=contribs,stars,issues"/></br>
-  PRs in private repos don't count with this API :C</br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droidecahedron&theme=highcontrast&layout=compact"/></br>
 
 
@@ -78,7 +76,8 @@
 ![Alt Text](https://imgur.com/r7AWvbP.gif)
 
 ![droidecahedron's GitHub stats](https://github-readme-stats.vercel.app/api?username=droidecahedron&show_icons=true&theme=highcontrast&count_private=true&hide=contribs,stars,issues)
-
+<img src="https://github-readme-stats.vercel.app/api?username=droidecahedron&show_icons=true&theme=highcontrast&count_private=true&hide=contribs,stars,issues"/></br>
+  PRs in private repos don't count with this API :C</br>
 <!Language stats>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droidecahedron&layout=compact"/>
